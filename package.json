@@ -1,0 +1,26 @@
+{
+  "name": "discordformatter",
+  "version": "1.0.0",
+  "description": "for when your friends are too lazy to add codeblocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BomberFish/DiscordFormatter.git"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "BomberFish",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BomberFish/DiscordFormatter/issues"
+  },
+  "homepage": "https://github.com/BomberFish/DiscordFormatter#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "lang-detector": "^1.0.6"
+  }
+}
