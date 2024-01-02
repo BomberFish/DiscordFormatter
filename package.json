@@ -14,7 +14,7 @@
     "discord-bot"
   ],
   "author": "BomberFish",
-  "license": "AGPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/BomberFish/DiscordFormatter/issues"
   },
